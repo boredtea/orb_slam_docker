@@ -42,3 +42,7 @@ In ros2 container
 sudo apt update && sudo apt install -y ros-humble-camera-ros
 ros2 run camera_ros camera_node
 ```
+
+## Notes
+- Maintained by [Soumi Chakraborty](linkedin.com/in/soumi-chakraborty-a5365b1a7/).
+- Refer to [https://github.com/boredtea/rf-data-collection](https://github.com/boredtea/rf-data-collection) for other utils to build a map using ORB SLAM3.
